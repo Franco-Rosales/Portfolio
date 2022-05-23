@@ -1,13 +1,10 @@
 body{
     background-color: #eee;
 }
-h1{
-    margin-top: auto;
-}
-#full{
+#Titulo-Franco{
     margin-bottom:auto;
 }
-.primera{
+.Titulo-pagina-principal{
     text-align: center;
     margin-top: 100px;
     
