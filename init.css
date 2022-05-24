@@ -7,5 +7,18 @@ body{
 .Titulo-pagina-principal{
     text-align: center;
     margin-top: 100px;
+    margin-bottom: 300px;
     
+    
+    
+}
+.logoUTNFRC{
+    width: 220px;
+    margin-right: -50px;
+}
+h5{
+    margin: 0%;
+}
+#sobre_mi{
+    background-color:rgb(255, 255, 255);
 }
