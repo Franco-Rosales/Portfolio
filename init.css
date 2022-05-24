@@ -22,3 +22,27 @@ h5{
 #sobre_mi{
     background-color:rgb(255, 255, 255);
 }
+.sk-img{
+    width: 200px;
+}
+.sk-img-type{
+    width: 200px;
+}
+.sk-img-hc{
+    width: 400px;
+}
+.sk-img-a{
+    width: 400px;
+    margin-left: -85px;
+}
+.sk-img-p{
+    width: 450px;
+    margin-left: -100px;
+}
+.sk-img-fast{
+    width: 450px;
+    margin-left: -80px;
+}
+.sk-img-fl{
+    width: 350px;
+}
