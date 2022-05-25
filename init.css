@@ -22,6 +22,10 @@ h5{
 #sobre_mi{
     background-color:rgb(255, 255, 255);
 }
+.img-fluid{
+    width: 350px;
+}
+
 .sk-img{
     width: 200px;
 }
@@ -45,4 +49,21 @@ h5{
 }
 .sk-img-fl{
     width: 350px;
+}
+
+
+#educacion{
+    background-color: rgb(255, 255, 255);
+}
+
+#centrar{
+    text-align: center;
+}
+.texto{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.icono{
+    width: 40px;
 }
